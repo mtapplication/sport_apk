@@ -1,0 +1,165 @@
+{
+	"tvchannels": [{
+			"id": 1,
+			"name": "Mahar",
+			"url": "https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8",
+			"image": ""
+		},
+		{
+			"id": 2,
+			"name": "5Plus",
+			"url": "https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w1842410704.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDIzIDI6MDU6NDAgQU0maGFzaF92YWx1ZT1VU2tCN1JUWStZMEJ3SjJSMXZxeWxnPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTEy",
+			"image": ""
+		},
+		{
+			"id": 3,
+			"name": "Channel7",
+			"url": "https://5a13fe32ef748.streamlock.net/mmplay/channel7/chunklist_w129419971.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDIzIDI6MDk6MzUgQU0maGFzaF92YWx1ZT0rbFpqZ0ZVd2lQMnJvZUptSmFwdjlBPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE1",
+			"image": ""
+		},
+		{
+			"id": 4,
+			"name": "MRTV-4",
+			"url": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/chunklist_w1240935726.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDIzIDI6MTY6NDUgQU0maGFzaF92YWx1ZT1hWkY5ZW9MVVF3VTAvNTUyY3JsMzNRPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTEz",
+			"image": ""
+		},
+		{
+			"id": 5,
+			"name": "MaharEsport",
+			"url": "https://tv.mahar.live/esports/mahar.stream/playlist.m3u8",
+			"image": ""
+		},
+		{
+			"id": 6,
+			"name": "Retro Cartoon channel",
+			"url": "https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8",
+			"image": ""
+		},
+		{
+			"id": 7,
+			"name": "Kuriakos Kids",
+			"url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
+			"image": ""
+		},
+		{
+			"id": 8,
+			"name": "AD Sports 1",
+			"url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8",
+			"image": ""
+		},
+		{
+			"id": 9,
+			"name": "Dubai Sports 1",
+			"url": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b1000000.m3u8",
+			"image": ""
+		},
+		{
+			"id": 10,
+			"name": "Dubai TV",
+			"url": "https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8",
+			"image": ""
+		},
+		{
+			"id": 11,
+			"name": "Noor Dubai",
+			"url": "https://dmiffthvll.cdn.mgmlcdn.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8",
+			"image": ""
+		},
+		{
+			"id": 12,
+			"name": "Moon TV",
+			"url": "https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8",
+			"image": ""
+		},
+		{
+			"id": 13,
+			"name": "Vasanth TV",
+			"url": "https://vasanth.pc.cdn.bitgravity.com/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f",
+			"image": ""
+		},
+		{
+			"id": 14,
+			"name": "Anjan TV",
+			"url": "https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8",
+			"image": ""
+		},
+		{
+			"id": 15,
+			"name": "Dubai Zaman",
+			"url": "https://dmiffthvll.cdn.mgmlcdn.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8",
+			"image": ""
+		},
+		{
+			"id": 16,
+			"name": "9XM TV",
+			"url": "https://yuppirecloriginvt.akamaized.net/280723/smil:9xmusic.smil/playlist.m3u8?dw=60&hdnts=st=1693623637~exp=1693638037~acl=!*/280723/smil:9xmusic.smil/*!/payload/9xm_5_21691719_NA_IN_NA_9xm_1037/*~hmac=fc3c2a3f529809dd8f7eb49cff5cb3c29ad4047501d433453ac3ffaa5b4f4231&ud=1037_9xm_21691719_live_-1_-1&b=100-2500",
+			"image": ""
+		},
+		{
+			"id": 17,
+			"name": "Sat 7 Kids",
+			"url": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8",
+			"image": ""
+		},
+		{
+			"id": 18,
+			"name": "Super!",
+			"url": "https://vimnitaly.akamaized.net/hls/live/2094034/super/master-1200.m3u8",
+			"image": ""
+		},
+		{
+			"id": 19,
+			"name": "TRT Çocuk",
+			"url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+			"image": ""
+		},
+		{
+			"id": 20,
+			"name": "Dubai Racing 1",
+			"url": "https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8",
+			"image": ""
+		},
+		{
+			"id": 21,
+			"name": "Oman Sports TV",
+			"url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/playlist.m3u8?stime=20230825232134&etime=20230902032314&token=099754e44400f7bfc9f59",
+			"image": ""
+		},
+		{
+			"id": 22,
+			"name": "Real Madrid TV",
+			"url": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8?cp=en",
+			"image": ""
+		},
+		{
+			"id": 23,
+			"name": "Sharjah Sports TV",
+			"url": "https://svs.itworkscdn.net/smc4sportslive/smc4tv_360p/playlist.m3u8",
+			"image": ""
+		},
+		{
+			"id": 24,
+			"name": "Makkah TV",
+			"url": "https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkahtv.stream/tracks-v1a1/mono.m3u8",
+			"image": ""
+		},
+		{
+			"id": 25,
+			"name": "Medina Live",
+			"url": "https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/madina.stream/tracks-v1a1/mono.m3u8",
+			"image": ""
+		},
+		{
+			"id": 26,
+			"name": "qurantvsa",
+			"url": "https://cllive.itworkscdn.net/ksaquranlive/token=nva=1693640921~dirs=1~hash=0c5bec172e53787e28f5b/ksaquran.smil/playlist_dvr.m3u8",
+			"image": ""
+		},
+		{
+			"id": 27,
+			"name": "Nasa",
+			"url": "https://content-aeui1.uplynk.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e/e.m3u8?pbs=25725227325f4d06b57d74ebac9e1d90",
+			"image": ""
+		}
+	]
+}
