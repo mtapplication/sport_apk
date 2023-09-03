@@ -169,6 +169,36 @@
 		},
 		{
 			"id": 29,
+			"name": "TV Muslim Thailand",
+			"url": "https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8",
+			"image": "https://yt3.googleusercontent.com/ytc/AOPolaQVrNNdWQ0anRpT0A6H85mtuo7hXL3Dq4SeUZOe8A=s900-c-k-c0x00ffffff-no-rj"
+		},
+		{
+			"id": 30,
+			"name": "Toonix",
+			"url": "https://toonixhls.wns.live/hls/stream.m3u8",
+			"image": "https://yt3.googleusercontent.com/ytc/AOPolaQVrNNdWQ0anRpT0A6H85mtuo7hXL3Dq4SeUZOe8A=s900-c-k-c0x00ffffff-no-rj"
+		},
+		{
+			"id": 31,
+			"name": "Afarin Kids",
+			"url": "https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8",
+			"image": "https://yt3.googleusercontent.com/ytc/AOPolaQVrNNdWQ0anRpT0A6H85mtuo7hXL3Dq4SeUZOe8A=s900-c-k-c0x00ffffff-no-rj"
+		},
+		{
+			"id": 32,
+			"name": "7x Music",
+			"url": "https://stream.e2is.in/hls/7xMusic.m3u8",
+			"image": "https://yt3.googleusercontent.com/ytc/AOPolaQVrNNdWQ0anRpT0A6H85mtuo7hXL3Dq4SeUZOe8A=s900-c-k-c0x00ffffff-no-rj"
+		},
+		{
+			"id": 33,
+			"name": "Thai TV 3",
+			"url": "https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1693773243&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=NbnN3AZjYpEAj3zEtR1ZQg",
+			"image": "https://yt3.googleusercontent.com/ytc/AOPolaQVrNNdWQ0anRpT0A6H85mtuo7hXL3Dq4SeUZOe8A=s900-c-k-c0x00ffffff-no-rj"
+		},
+		{
+			"id": 34,
 			"name": "AnimeTV",
 			"url": "https://stmv1.srvif.com/animetv/animetv/chunklist_w708885188.m3u8",
 			"image": "https://play-lh.googleusercontent.com/G9OCAI88whyNYY_tA5sl633ZQmjOkNTAiPyVru2J0dIuIBtOGKYbKuQyC0juXE9oRIs=w240-h480-rw"
