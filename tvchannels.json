@@ -25,132 +25,156 @@
 		},
 		{
 			"id": 5,
+			"name": "MRTV Entertainment",
+			"url": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8",
+			"image": "https://www.myanmartvchannels.com/assets/images/channeliconb/mrtv42.jpg"
+		},
+		{
+			"id": 6,
+			"name": "MNTV",
+			"url": "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_low/index.m3u8",
+			"image": "https://www.myanmartvchannels.com/assets/images/channeliconb/mrtv42.jpg"
+		},
+		{
+			"id": 7,
+			"name": "MITV",
+			"url": "https://playback2.akamaized.net/streams/7063221_9340397_lsitwe7s1rejeztoai9_1/master.m3u8?dw=14400&hdnts=exp=1693732063~acl=/streams/7063221_9340397_lsitwe7s1rejeztoai9_1/master.m3u8*~hmac=7bda39afbd8c86c4a6bf981ea9a20500d72e226d0ce9f4731a376a8d91d360e4",
+			"image": "https://www.myanmartvchannels.com/assets/images/channeliconb/mrtv42.jpg"
+		},
+		{
+			"id": 8,
+			"name": "Channel K",
+			"url": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8",
+			"image": "https://www.myanmartvchannels.com/assets/images/channeliconb/mrtv42.jpg"
+		},
+		{
+			"id": 9,
 			"name": "MaharEsport",
 			"url": "https://tv.mahar.live/esports/mahar.stream/playlist.m3u8",
 			"image": "https://maharesports.com/wp-content/uploads/2022/10/MahareSports-Web-logo.png"
 		},
 		{
-			"id": 6,
+			"id": 10,
 			"name": "Retro Cartoon channel",
 			"url": "https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8",
 			"image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/732fbcf0-2d8e-4b50-a3d3-eb1009cfa497/dfldeje-c7eabe0e-fb4e-4e5d-b7f7-075c5784ad72.png/v1/fill/w_1632,h_1632/cartoon_network_retro_logo__fanmade__by_rfmdf2429_dfldeje-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYzMiIsInBhdGgiOiJcL2ZcLzczMmZiY2YwLTJkOGUtNGI1MC1hM2QzLWViMTAwOWNmYTQ5N1wvZGZsZGVqZS1jN2VhYmUwZS1mYjRlLTRlNWQtYjdmNy0wNzVjNTc4NGFkNzIucG5nIiwid2lkdGgiOiI8PTE2MzIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.biuExx2RDzD_op5AxrVilABayoSp1xAp5NfWqTK0L5Q"
 		},
 		{
-			"id": 7,
+			"id": 11,
 			"name": "Kuriakos Kids",
 			"url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
 			"image": "https://static.wikia.nocookie.net/logopedia/images/3/33/Kurikos.png/revision/latest?cb=20180801205146"
 		},
 		{
-			"id": 8,
+			"id": 12,
 			"name": "AD Sports 1",
 			"url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV0r410uyVa6I3r0sa0n9dycgW7NwrIQe8Ir2ZKklrWZrfrrBs6PuD8r39FhlABBM4AR4&usqp=CAU"
 		},
 		{
-			"id": 9,
+			"id": 13,
 			"name": "Dubai Sports 1",
 			"url": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b1000000.m3u8",
 			"image": "https://tvtvtv.ru/logos/dubai_sports_1.png"
 		},
 		{
-			"id": 10,
+			"id": 14,
 			"name": "Dubai TV",
 			"url": "https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREt1GN-gVz_E09bS6Drmc5EWBl9h7p_f-JR0K9RYkVqVhYcsXEGQMXp8VaW3MTZc8vrIE&usqp=CAU"
 		},
 		{
-			"id": 11,
+			"id": 15,
 			"name": "Noor Dubai",
 			"url": "https://dmiffthvll.cdn.mgmlcdn.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8",
 			"image": "https://mediaoffice.ae/-/media/logos/noor-dubai.jpg?h=740&w=800&hash=AA15107FE6DA0C1671F284B14C7A454B"
 		},
 		{
-			"id": 13,
+			"id": 16,
 			"name": "Vasanth TV",
 			"url": "https://vasanth.pc.cdn.bitgravity.com/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f",
 			"image": "https://play-lh.googleusercontent.com/w4Linnw16zkXQpl07YXCvhRZa6xjv5xIA6eTjP0Ik4OpSMiDae34s3V0vQS9hta1vMlE"
 		},
 		{
-			"id": 14,
+			"id": 17,
 			"name": "Anjan TV",
 			"url": "https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8",
 			"image": "https://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/3dc460a3-fd99-45ee-9945-592b8af242ac.jpg"
 		},
 		{
-			"id": 15,
+			"id": 18,
 			"name": "Dubai Zaman",
 			"url": "https://dmiffthvll.cdn.mgmlcdn.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Z67bcmzK5N6s6yU3YRVxyijghjkdPvf_Zc-22SkYRLe1WbhjdbGQ_3fr8sP2sA_uaV8&usqp=CAU"
 		},
 		{
-			"id": 16,
+			"id": 19,
 			"name": "9XM TV",
 			"url": "https://yuppirecloriginvt.akamaized.net/280723/smil:9xmusic.smil/playlist.m3u8?dw=60&hdnts=st=1693729188~exp=1693743588~acl=!*/280723/smil:9xmusic.smil/*!/payload/9xm_5_21691719_NA_IN_NA_9xm_1037/*~hmac=cae872bd455a56ae5eccded92f62d572f5e07ada68822fb2c2042488aeeae41a&ud=1037_9xm_21691719_live_-1_-1&b=100-2500",
 			"image": "https://www.animationxpress.com/wp-content/uploads/2015/02/9XM.jpg"
 		},
 		{
-			"id": 17,
+			"id": 20,
 			"name": "Sat 7 Kids",
 			"url": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8",
 			"image": "https://yt3.googleusercontent.com/hYEEmF2Wp3caWLk_DKkk4I3nPhYb6Bs1V5lRUMslq-q5AOHU_t5_egQTHTBzSeyL_vThlAHpJA=s900-c-k-c0x00ffffff-no-rj"
 		},
 		{
-			"id": 18,
+			"id": 21,
 			"name": "Super!",
 			"url": "https://vimnitaly.akamaized.net/hls/live/2094034/super/master-1200.m3u8",
 			"image": "https://static.wikia.nocookie.net/logopedia/images/e/ea/Super%21_%282021%29.svg/revision/latest/scale-to-width-down/250?cb=20210607142232"
 		},
 		{
-			"id": 19,
+			"id": 22,
 			"name": "TRT Çocuk",
 			"url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
 			"image": "https://1k-cdn.com/resimler/yazarlar/39535_195ed_1540761945.jpg"
 		},
 		{
-			"id": 20,
+			"id": 23,
 			"name": "Dubai Racing 1",
 			"url": "https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8",
 			"image": "https://theedesigner.in/content/images/size/w600/2019/04/Dubai-Racingtv-logo.jpg"
 		},
 		{
-			"id": 21,
+			"id": 24,
 			"name": "Oman Sports TV",
 			"url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/master.m3u8",
 			"image": "https://photos.live-tv-channels.org/tv-logo/oman-tv-sport-6103-w700.webp"
 		},
 		{
-			"id": 22,
+			"id": 25,
 			"name": "Real Madrid TV",
 			"url": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8?cp=en",
 			"image": "https://i.pinimg.com/originals/0d/b5/02/0db5020eaa7ffd9ea6ebd16f81a4bc35.jpg"
 		},
 		{
-			"id": 23,
+			"id": 26,
 			"name": "Sharjah Sports TV",
 			"url": "https://svs.itworkscdn.net/smc4sportslive/smc4tv_360p/playlist.m3u8",
 			"image": "https://sba.net.ae/uploads/19/Jan/24/8b55759f48ca785a912f585072744a72595253394635454452674d6e6c32.png"
 		},
 		{
-			"id": 24,
+			"id": 27,
 			"name": "Makkah TV",
 			"url": "https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkahtv.stream/tracks-v1a1/mono.m3u8",
 			"image": "https://way2allah.com/images/channels/42.png"
 		},
 		{
-			"id": 25,
+			"id": 28,
 			"name": "Medina Live",
 			"url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8",
 			"image": "https://www.jagobd.com/wp-content/uploads/2020/05/Madani-Channel-Bangla.jpg?x50681"
 		},
 		{
-			"id": 26,
+			"id": 29,
 			"name": "Kingdom Of Saudi Arabia",
 			"url": "https://cllive.itworkscdn.net/ksaquranlive/token=nva=1693747761~dirs=1~hash=0f08d9fa5477dcb4b091e/ksaquran.smil/playlist_dvr.m3u8",
 			"image": "https://yt3.googleusercontent.com/ytc/AOPolaQVrNNdWQ0anRpT0A6H85mtuo7hXL3Dq4SeUZOe8A=s900-c-k-c0x00ffffff-no-rj"
 		},
 		{
-			"id": 27,
+			"id": 30,
 			"name": "AnimeTV",
 			"url": "https://stmv1.srvif.com/animetv/animetv/chunklist_w708885188.m3u8",
 			"image": "https://play-lh.googleusercontent.com/G9OCAI88whyNYY_tA5sl633ZQmjOkNTAiPyVru2J0dIuIBtOGKYbKuQyC0juXE9oRIs=w240-h480-rw"
