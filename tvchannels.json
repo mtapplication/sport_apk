@@ -211,9 +211,33 @@
 		},
 		{
 			"id": 36,
-			"name": "Mastiii ",
+			"name": "Mastiii",
 			"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/ebe683bc-a4a2-4ce4-aaf0-48ddacb79f57/1.m3u8",
 			"image": "https://yt3.googleusercontent.com/ytc/AOPolaRrmUQhOelXgCG8963zhbqMmHPXxKHVWk_0qdoTug=s900-c-k-c0x00ffffff-no-rj"
+		},
+		{
+			"id": 37,
+			"name": "Balle Balle",
+			"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/858c7587-7a0e-4c82-a5a0-881ec0291af2/0.m3u8",
+			"image": "https://yt3.googleusercontent.com/ytc/AOPolaSBXqfxrhx5Jp7iSA48wB_NRiOpEji7cpl3jc80=s900-c-k-c0x00ffffff-no-rj"
+		},
+		{
+			"id": 38,
+			"name": "Bollywood HD",
+			"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/f356eaba-6edd-459b-88de-fad59df0d2f0/1.m3u8",
+			"image": "https://a.jsrdn.com/hls/23077/bollywood-hd-1/thumbh_20220801_201501_270.jpg"
+		},
+		{
+			"id": 39,
+			"name": "Bollywood Classic",
+			"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/c3d56d35-30f7-4454-9acf-70408c4e12fe/1.m3u8",
+			"image": "https://a.jsrdn.com/hls/23077/bollywood-classic/thumbh_20220801_200458_270.jpg"
+		},
+		{
+			"id": 40,
+			"name": "Boxing TV",
+			"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/673a7a05-119b-4189-9d4c-8a41f6e7c9b8/3.m3u8",
+			"image": "https://a.jsrdn.com/hls/22964/boxing-tv/thumbh_20220301_212731_270.png"
 		}
 	]
 }
