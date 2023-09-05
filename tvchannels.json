@@ -104,7 +104,7 @@
 		{
 			"id": 18,
 			"name": "9XM TV",
-			"url": "https://yuppirecloriginvt.akamaized.net/280723/smil:9xmusic.smil/playlist.m3u8?dw=60&hdnts=st=1693729188~exp=1693743588~acl=!*/280723/smil:9xmusic.smil/*!/payload/9xm_5_21691719_NA_IN_NA_9xm_1037/*~hmac=cae872bd455a56ae5eccded92f62d572f5e07ada68822fb2c2042488aeeae41a&ud=1037_9xm_21691719_live_-1_-1&b=100-2500",
+			"url": "https://yuppirecloriginvt.akamaized.net/280723/smil:9xmusic.smil/playlist.m3u8?dw=60&hdnts=st=1693876643~exp=1693891043~acl=!*/280723/smil:9xmusic.smil/*!/payload/9xm_5_21691719_NA_IN_NA_9xm_1037/*~hmac=11eb5d1b3160adb5ad9277557c082ee5744793e50c1be9a452f6924396a77dd7&ud=1037_9xm_21691719_live_-1_-1&b=100-2500",
 			"image": "https://www.animationxpress.com/wp-content/uploads/2015/02/9XM.jpg"
 		},
 		{
@@ -164,7 +164,7 @@
 		{
 			"id": 28,
 			"name": "Kingdom Of Saudi Arabia",
-			"url": "https://cllive.itworkscdn.net/ksaquranlive/token=nva=1693747761~dirs=1~hash=0f08d9fa5477dcb4b091e/ksaquran.smil/playlist_dvr.m3u8",
+			"url": "https://cllive.itworkscdn.net/ksa1live/token=nva=1693891292~dirs=1~hash=00dd547f1c70598541664/ksa1.smil/playlist_dvr.m3u8",
 			"image": "https://yt3.googleusercontent.com/ytc/AOPolaQVrNNdWQ0anRpT0A6H85mtuo7hXL3Dq4SeUZOe8A=s900-c-k-c0x00ffffff-no-rj"
 		},
 		{
