@@ -250,6 +250,30 @@
 			"name": "MMA Junkie",
 			"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/0ffbc1d4-829d-4ed5-9c26-2cefd179100b/1.m3u8",
 			"image": "https://d14c63magvk61v.cloudfront.net/hls/22814/mma-junkie/thumbh_20200717_232723_270.jpg"
+		},
+		{
+			"id": 43,
+			"name": "United Fight Alliance",
+			"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/642084e5-5205-4689-bf11-b1185032057a/1.m3u8",
+			"image": "https://image.roku.com/developer_channels/prod/91e22e2f3770e1617a3c041d0ee43933d16420130ff32427a6f718384a89be28.png"
+		},
+		{
+			"id": 44,
+			"name": "Wired2fish TV",
+			"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/wired2fish/664807a4-8900-4d75-8342-f86b130a0a9d/1.m3u8",
+			"image": "https://npaa.net/site/wp-content/uploads/2021/02/w2f-tv-589.jpg"
+		},
+		{
+			"id": 45,
+			"name": "Kids TV",
+			"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/1699cb44-0674-4c2c-9818-70a79fbecbfc/1.m3u8",
+			"image": "https://t3.ftcdn.net/jpg/04/91/94/36/360_F_491943636_N5lBtXq6Czv9Zbwiq5c5x335COaqHCf1.jpg"
+		},
+		{
+			"id": 46,
+			"name": "Pitaara TV",
+			"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/569bd649-9164-4a53-9917-84c1567cac46/1.m3u8",
+			"image": "https://yt3.googleusercontent.com/ytc/AOPolaT7ifl6V8LicpRtoP8YCAjP5qRIf4ggFgcHn0_7HA=s900-c-k-c0x00ffffff-no-rj"
 		}
 	]
 }
