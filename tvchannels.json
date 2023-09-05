@@ -238,6 +238,18 @@
 			"name": "Boxing TV",
 			"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/673a7a05-119b-4189-9d4c-8a41f6e7c9b8/3.m3u8",
 			"image": "https://a.jsrdn.com/hls/22964/boxing-tv/thumbh_20220301_212731_270.png"
+		},
+		{
+			"id": 41,
+			"name": "Hard Knocks",
+			"url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/6d12b1b3-c5f7-4191-847d-3254d55c428a/2.m3u8",
+			"image": "https://d14c63magvk61v.cloudfront.net/hls/22817/hard-knocks-fighting/thumbh_20200717_232723_270.jpg"
+		},
+		{
+			"id": 42,
+			"name": "MMA Junkie",
+			"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/0ffbc1d4-829d-4ed5-9c26-2cefd179100b/1.m3u8",
+			"image": "https://d14c63magvk61v.cloudfront.net/hls/22814/mma-junkie/thumbh_20200717_232723_270.jpg"
 		}
 	]
 }
