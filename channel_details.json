@@ -1,1 +1,106 @@
-
+{
+  "details": [
+    {
+      "id": 1,
+      "channel": "5 Plus",
+      "about": "5 Plus is a 24-hour free-to-air television channel .You can easily search and watch on TV with a built-in digital tuner. And you can also watch by linking with T2 set-top boxes such as 5 Network, 4TV, MWD digital and MRTV T2. 5 Plus is showing India, Korea ,Philippines and Thai series for getting different feelings and knowledge. Moreover 5Plus presents the programs relating with health, education, entertainment and social issues. 5 Plus stand as the digital free to air TV channel by creating and distributing comprehensive, dynamic, broadcast solutions that inform, educate, entertain and engage.",
+      "image": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/5plus-120x120-369.jpg"
+    },
+    {
+      "id": 2,
+      "channel": "Buddha Channel",
+      "about": "Buddha Channel is a 24-hour free-to-air television channel that broadcasts entertainment programs. It is run by Sky Net (Skynet DTH), a satellite television operator in Myanmar.",
+      "image": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/buddha-120x120-8a8.jpg"
+    },
+    {
+      "id": 3,
+      "channel": "Channel 7",
+      "about": "In 2012, Forever Group Co., Ltd launched the second free-to-air channel called Channel 7, targeting to the younger audience of Myanmar. Channel 7 has become well- known for its youth-oriented programming and its outstanding line-ups including the latest and the most innovative programs in the country today. In 2014, Channel 7 was broadcasted in High Definition quality which can be tuned in using DVB-T2 and DTH systems.",
+      "image": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel7-120x120-81c.jpg"
+    },
+    {
+      "id": 4,
+      "channel": "Mahar BawDi",
+      "about": "MahaBawdi is a free-to-air buddhist television channel run by Forever Group. It is based in Yangon, Yangon Region.",
+      "image": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/maharbawdi-120x120-188.jpg"
+    },
+    {
+      "id": 5,
+      "channel": "Channel 9",
+      "about": "Channel 9 is a 24-hour free-to-air television channel that broadcasts entertainment programs. It is run by Sky Net (Skynet DTH), a satellite television operator in Myanmar.",
+      "image": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel9-120x120-d4b.jpg"
+    },
+    {
+      "id": 6,
+      "channel": "Channel K",
+      "about": "Channel K is a 24-hour free-to-air television channel that broadcasts entertainment programs. Launched in February 2019, Channel K is a digital free-to-air entertainment channel headquartered in Yangon. It reaches across all 15 states of Myanmar on linear TV and is also available on social media and an OTT app. It targets the whole of Myanmar in general, and the critical ages of 18 to 38 in particular. Channel K has 4 main pillars of programming: Business, Movies, Music and Culture. The channel is also home to some of the biggest names in the entertainment industry. Its brand ambassadors include the biggest hip hop star, Sai Sai Kham Leng, Myanmar pop queen Ni Ni Khin Zaw, rock queen Phyu Phyu Kyaw Thein, Cultural icon Phoe Chit , Movie star Pyae Ti Oo and big screen actress Soe Pyae Thazin.",
+      "image": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channelk-120x120-a4d.jpg"
+    },
+    {
+      "id": 7,
+      "channel": "Channel ME",
+      "about": "Channel ME (former , MRTV entertainment) is a free-to-air channel broadcasting 24 hours with the sole purpose of entertaining the public. Broadcast from Naypyidaw by state-run Myanmar Radio and Television (MRTV).",
+      "image": "https://www.myanmartvchannels.com/assets/cache/images/channelicon/mrtvent-120x120-5bf.jpg"
+    },
+    {
+      "id": 8,
+      "channel": "DVB",
+      "about": "DVB TV is a 24-hour free-to-air television channel and Online News Network in Myanmar/Burma. The DVB (Democratic Voice of Burma) is a non-profit Burmese media organization committed to responsible journalism. Our mission is to provide accurate and unbiased news to the people of Burma, to promote understanding and cooperation amongst the various ethnic and religious groups of Burma, to encourage and sustain independent public opinion and enable social and political debate, to impart the ideals of democracy and human rights to the people of Burma. The DVB is formerly registered & based in Oslo, Norway and now DVB Multimedia Group is officially operating in Myanmar/Burma.",
+      "image": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/dvb-120x120-58e.jpg"
+    },
+    {
+      "id": 9,
+      "channel": "Education Channel",
+      "about": "MRTV, Myanma Radio and Television is a free-to-air television channel that mainly broadcasts Local news. Radio service in Myanmar first came on air in 1936 during the British colonial era. Regular programming by Bama Athan  began in February 1946 when the British established Burma Broadcasting Service (BBS), carrying Burmese language national and foreign news and musical entertainment, knowledge reply and school lessons and English language news and music programming. After independence in 1948, it was named Myanma Athan . The service was renamed Myanmar Radio  in 1988. The junta has also renamed the radio service's parent, BBS as Myanmar Radio and Television (MRTV) in 1997. Until the launch of Yangon City FM in 2001, BBS/Myanmar Radio was the only radio station in the country. For years, its main broadcast center is at 426 Pyay Road in Kamayut in Yangon. Since late 2007, the main broadcast station has moved to Naypyidaw. Yangon Station now mostly relays Naypyidaw Station's programming. Television service in Myanmar was first introduced in 1979 as a test trial in Yangon. MRTV was first launched on 3 June 1980, and regular television service was first formally launched in 1981.",
+      "image": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/education-120x120-88e.jpg"
+    },
+    {
+      "id": 10,
+      "channel": "Fortune",
+      "about": "Fortune Group has expanded into the broadcasting entertainment industry with Fortune TV, a digital Free-to-Air TV channel that will be launching at the beginning of 2019. With the recent proliferation of digital content providers in Myanmar, Fortune will provide quality infotainment content on the FTA and OTT platforms. Fortune TV is poised to innovate the television media landscape and captivate audiences all over the nation.",
+      "image": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/fortune-120x120-f49.jpg"
+    },
+    {
+      "id": 11,
+      "channel": "Hluttaw",
+      "about": "Hluttaw Channel is a free-to-air television channel. Hluttaw Channel is the official television channel of the Assembly of the Union (Pyidaungsu Hluttaw). The Assembly of the Union is made up of two houses, the House of Nationalities (Amyotha Hluttaw) and the House of Representatives (Pyithu Hluttaw). It is run by Sky Net, a satellite television operator based in Yangon.",
+      "image": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/hluttaw-120x120-cb8.jpg"
+    },
+    {
+      "id": 12,
+      "channel": "Mahar",
+      "about": "Mahar is a 24-hour free-to-air television channel Starting from 30 October 2016. The main purpose of the Great near or distant Burmese are perfect, real-time knowledge of the sector in order to view the free Burma Wellness genre and given presentations in one place. ",
+      "image": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mahar-120x120-2c2.jpg"
+    },
+    {
+      "id": 13,
+      "channel": "MITV",
+      "about": "MITV is a celebration of all aspects of Myanmar culture from the ancient to the brand new, in english language.Launched on 31st March 2010 based in Yangon. MITV is a broadcast TV brand intended for international and local English speaking consumers, launched on 31st March 2010 based in Yangon. It is a celebration of all aspects of Myanmar culture from the ancient to the brand new. A platform to represent the people of Myanmar, in english language, free to view and available 24 hours a day. An accurate, balanced, independent and up to date source of Myanmar information.The soul of the MITV television channel is born from its local news, that gives a stage and a voice to local people and their stories. A chance for Myanmar to speak to the world and the world to connect with Myanmar.",
+      "image": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mitv-120x120-12c.jpg"
+    },
+    {
+      "id": 14,
+      "channel": "MNTV",
+      "about": "Myanmar National TV (MNTV) is a 24-hour free-to-air television channel that broadcasts entertainment programs. It is run by Sky Net (Skynet DTH), a satellite television operator in Myanmar. MNTV is one of the popular free-to-air TV channel in Myanmar. MNTV analog network (NTSC) stretched out to an estimated reach of (25.3) million viewers in the most major cities in Myanmar including Capital City Nay Pyi Taw and the other main cities Yangon, Mandalay, Minbu, Pyay, Makehtila, Taungu, Taungyi, Mong Ywar, Mawlamyine, Kyaug Kone. Also Utilizing Skynet DTH receiver, nearly the whole nation can be reached. MNTV is also possible to access through MRTV (DVB-T2) satellite and therefore boosting the estimated viewership to a total of 35.4 million.",
+      "image": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mntv-120x120-dda.jpg"
+    },
+    {
+      "id": 15,
+      "channel": "MRTV",
+      "about": "MRTV, Myanma Radio and Television is a free-to-air television channel that mainly broadcasts Local news. Radio service in Myanmar first came on air in 1936 during the British colonial era. Regular programming by Bama Athan  began in February 1946 when the British established Burma Broadcasting Service (BBS), carrying Burmese language national and foreign news and musical entertainment, knowledge reply and school lessons and English language news and music programming. After independence in 1948, it was named Myanma Athan . The service was renamed Myanmar Radio  in 1988. The junta has also renamed the radio service's parent, BBS as Myanmar Radio and Television (MRTV) in 1997. Until the launch of Yangon City FM in 2001, BBS/Myanmar Radio was the only radio station in the country. For years, its main broadcast center is at 426 Pyay Road in Kamayut in Yangon. Since late 2007, the main broadcast station has moved to Naypyidaw. Yangon Station now mostly relays Naypyidaw Station's programming. Television service in Myanmar was first introduced in 1979 as a test trial in Yangon. MRTV was first launched on 3 June 1980, and regular television service was first formally launched in 1981.",
+      "image": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv-120x120-4be.jpg"
+    },
+    {
+      "id": 16,
+      "channel": "MRTV News",
+      "about": "MRTV News, Myanma Radio and Television is a free-to-air television channel that mainly broadcasts Local news. Radio service in Myanmar first came on air in 1936 during the British colonial era. Regular programming by Bama Athan  began in February 1946 when the British established Burma Broadcasting Service (BBS), carrying Burmese language national and foreign news and musical entertainment, knowledge reply and school lessons and English language news and music programming. After independence in 1948, it was named Myanma Athan . The service was renamed Myanmar Radio  in 1988. The junta has also renamed the radio service's parent, BBS as Myanmar Radio and Television (MRTV) in 1997. Until the launch of Yangon City FM in 2001, BBS/Myanmar Radio was the only radio station in the country. For years, its main broadcast center is at 426 Pyay Road in Kamayut in Yangon. Since late 2007, the main broadcast station has moved to Naypyidaw. Yangon Station now mostly relays Naypyidaw Station's programming. Television service in Myanmar was first introduced in 1979 as a test trial in Yangon. MRTV was first launched on 3 June 1980, and regular television service was first formally launched in 1981.",
+      "image": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv-120x120-4be.jpg"
+    },
+    {
+      "id": 17,
+      "channel": "YTV",
+      "about": "YTV is one of the television channels which is going to release Free to Air with the system of DVB-T2. The co-operation agreement between Union of Myanmar, has been by 17th February 2018. We applied with Expression of Interest (EOI) through the official tender dated on 22nd September 2016 from Ministry of Information, Myanmar Radio & Television Department. 44 Organizations has applied Expression of Interest (EOI) and as first step in winners’ list was 42. 29 Organizations has applied next to Request for Proposal (RFP) and on 11th April 2017 announced the achievement organizations including MY MULTIMEDIA Co., Ltd. which is Television Business Sector of Young Investment Group Co., Ltd. through 10 of initially list.",
+      "image": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/ytv-120x120-a6a.jpg"
+    }
+  ]
+}
