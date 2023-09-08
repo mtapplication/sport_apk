@@ -2,37 +2,17 @@
 	"details": [{
 			"id": 1,
 			"title": "Video 1",
-			"url": "https://raw.githubusercontent.com/mtapplication/sport_apk/main/video/vd1.mp4"
+			"url": "https://raw.githubusercontent.com/mtapplication/sport_apk/main/video/vd11.mp4"
 		},
 		{
 			"id": 2,
 			"title": "Video 2",
-			"url": "https://raw.githubusercontent.com/mtapplication/sport_apk/main/video/vd2.mp4"
+			"url": "https://raw.githubusercontent.com/mtapplication/sport_apk/main/video/vd12.mp4"
 		},
 		{
 			"id": 3,
 			"title": "Video 3",
-			"url": "https://raw.githubusercontent.com/mtapplication/sport_apk/main/video/vd3.mp4"
-		},
-		{
-			"id": 4,
-			"title": "Video 4",
-			"url": "https://raw.githubusercontent.com/mtapplication/sport_apk/main/video/vd4.mp4"
-		},
-		{
-			"id": 5,
-			"title": "Video 5",
-			"url": "https://raw.githubusercontent.com/mtapplication/sport_apk/main/video/vd5.mp4"
-		},
-		{
-			"id": 6,
-			"title": "Video 6",
-			"url": "https://raw.githubusercontent.com/mtapplication/sport_apk/main/video/vd6.mp4"
-		},
-		{
-			"id": 7,
-			"title": "Video 7",
-			"url": "https://raw.githubusercontent.com/mtapplication/sport_apk/main/video/vd7.mp4"
+			"url": "https://raw.githubusercontent.com/mtapplication/sport_apk/main/video/vd13.mp4"
 		}
 	]
 }
