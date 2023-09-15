@@ -186,12 +186,6 @@
 			"image": "https://bx-tv.com/wp-content/uploads/2022/11/7x-music-Punjabi.jpg"
 		},
 		{
-			"id": 33,
-			"name": "Thai TV 3",
-			"url": "https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1693773243&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=NbnN3AZjYpEAj3zEtR1ZQg",
-			"image": "https://yt3.googleusercontent.com/rB7WQTx6AXmeRZfrPFiyQa02hVZ1g3HbR-wCSdjLLs1VSekGzqGTLg4qMhUs4y6CpwsNnIh3pg=s900-c-k-c0x00ffffff-no-rj"
-		},
-		{
 			"id": 34,
 			"name": "AnimeTV",
 			"url": "https://stmv1.srvif.com/animetv/animetv/chunklist_w708885188.m3u8",
